@@ -23,7 +23,7 @@ export interface AddOnService {
 }
 
 export const STORE_INFO = {
-  name: 'Laundry UMKM',
+  name: 'Laundry Kilau Max',
   /** Nomor WhatsApp contoh untuk prototipe (format 62xxx tanpa tanda plus atau spasi). */
   whatsappNumber: '6281234567890',
   openingHours: '08.00–20.00 WIB',

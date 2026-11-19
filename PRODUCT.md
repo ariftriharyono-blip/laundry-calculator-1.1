@@ -1,4 +1,4 @@
-# PRODUCT.md — LaundryCalc
+# PRODUCT.md - Laundry Kilau Max
 
 Dokumen ini merangkum daftar fitur dari PRD *LaundryCalc & Catalog* (v1.1), urutan pengerjaan, serta hal-hal yang masih perlu diputuskan sebelum pembangunan kode dimulai.
 

@@ -1,4 +1,4 @@
-# DESIGN.md — LaundryCalc
+# DESIGN.md - Laundry Kilau Max
 
 Dokumen ini mencatat keputusan tampilan dari pengguna serta aturan visual yang dipakai pada seluruh komponen aplikasi.
 
